@@ -1,4 +1,29 @@
-### Hi there 👋
+### Hi there 👋 I'm Rifat!
+
+I'm Rifat, a Cyber Security Analyst passionate about software development. This GitHub profile provides a platform for me to share my projects and experiences.
+
+## 🔧 Technical Skills
+
+- **Programming Languages:** Java, Python
+- **Web Technologies:** HTML, CSS, Flask
+- **Databases:** MySQL, MongoDB
+- **Other Tools:** Git, Docker, CrowdStrike, Splunk, IBM QRadar, SentinelOne
+
+
+## 📫 Contact
+
+Email: rifat@example.com
+LinkedIn: [Rifat LinkedIn](https://www.linkedin.com/in/rifatburak/)
+Portfolio: [@rifat_dev](https://rifatburak.pythonanywhere.com/)
+
+## 🌱 Currently Learning
+
+I'm currently working on mastering X technology and would like to delve deeper into Y.
+
+## 💬 More Information
+
+For more information, you can visit [my personal website](https://www.rifat.com).
+
 
 <!--
 **rifatburak/rifatburak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
