@@ -12,7 +12,7 @@ I'm Rifat, a Cyber Security Analyst passionate about software development. This 
 
 ## 📫 Contact
 
-Email: [Contact](rifatpinarci@hotmail.com)
+Email: [Contact](mailto:rifatpinarci@hotmail.com)
 LinkedIn: [Rifat LinkedIn](https://www.linkedin.com/in/rifatburak/)
 Portfolio: [@rifat_dev](https://rifatburak.pythonanywhere.com/)
 
