@@ -14,8 +14,8 @@ I'm Rifat, a Cyber Security Analyst passionate about software development. This 
 
 Email: [Contact](mailto:rifatpinarci@hotmail.com)
 LinkedIn: [Rifat LinkedIn](https://www.linkedin.com/in/rifatburak/)
-Portfolio: [@rifat_dev](https://rifatburak.pythonanywhere.com/)
-
+Portfolio: [Rifat Burak Pinarci](https://rifatburak.pythonanywhere.com/)
+<!--
 ## 🌱 Currently Learning
 
 I'm currently working on mastering X technology and would like to delve deeper into Y.
