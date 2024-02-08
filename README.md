@@ -6,7 +6,7 @@ I'm Rifat, a Cyber Security Analyst passionate about software development. This 
 
 - **Programming Languages:** Java, Python
 - **Web Technologies:** HTML, CSS, Flask
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL, postgresql
 - **Other Tools:** Git, Docker, CrowdStrike, Splunk, IBM QRadar, SentinelOne
 
 
@@ -14,7 +14,11 @@ I'm Rifat, a Cyber Security Analyst passionate about software development. This 
 
 Email: [Contact](mailto:rifatpinarci@hotmail.com)
 LinkedIn: [Rifat LinkedIn](https://www.linkedin.com/in/rifatburak/)
-Portfolio: [Rifat Burak Pinarci](https://rifatburak.pythonanywhere.com/)
+
+
+## 💬 More Information
+
+For more information, you can visit [my personal website]([https://www.rifat.com](https://rifatburak.pythonanywhere.com/)).
 <!--
 ## 🌱 Currently Learning
 
